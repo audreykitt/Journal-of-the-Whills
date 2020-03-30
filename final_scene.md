@@ -8,3 +8,5 @@ troops, who all bow before them. Chewbacca growls and Artoo
 beeps with happiness.
 
 Roll Credits
+
+clap clap clap
