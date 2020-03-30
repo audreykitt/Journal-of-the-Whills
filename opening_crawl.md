@@ -13,7 +13,7 @@ ____    __    ____  ___     .______    ________.
     \__/  \__/ /__/     \__\|__| `._______/
 
 ```
-Episode IV: A New Hope
+Episode IV: A New Hope.
 
 It is a period of civil war. Rebel spaceships,
 striking from a hidden base, have won their first
